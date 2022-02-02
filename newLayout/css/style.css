@@ -1,0 +1,17 @@
+@charset "utf-8";
+@font-face{
+        font-family: 'Minecraft';
+        src:url("../fonts/minecraft.ttf"); 
+    }
+
+html, body
+{
+    color: #FFB84E;
+    background-color: #222222;
+    
+}
+
+h1 {
+    color: #FF9902;
+    font-family: Minecraft;
+}
