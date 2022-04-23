@@ -1,0 +1,22 @@
+<?php
+
+// MySQL settings 
+
+// database hostname 
+define('DB_HOST', 'localhost'); 
+
+// database username 
+define('DB_USER', 'root'); 
+
+// database password 
+define('DB_PASSWORD', ''); 
+
+// database name 
+define('DB_NAME', 'example');
+
+
+
+// discord token from https://discord.com/developers/applications/
+define('DISCORD_TOKEN', 'ODM4MTM0Njg3Njk2Mjg5ODUy.YI2rwQ.4gKyywiweyM0x4h_YmmZdYerJq0'); 
+
+?>
